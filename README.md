@@ -198,4 +198,4 @@ This repository serves as the official landing page for Hexapoda. The software i
 **Get the most recent version of Hexapoda today!**
 
 ---
-**Last updated:** 2026-11-12 03:29:12 UTC
+**Last updated:** 2026-11-12 11:58:39 UTC
